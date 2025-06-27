@@ -89,10 +89,10 @@ The primary goal of this project is to create a dynamic Car Sales Dashboard that
 
 ## Dashboard Snapshots
 ### Page 1: Sales Overview
-![Sales Overview](images/CarSalesOverview.png)
+![Sales Overview](images/CarSales_Overview.png)
 
 ### Page 2: Detailed Overview
-![Detailed Overview](images/CarSalesDetails.png)
+![Detailed Overview](images/CarSales_Details.png)
 
 ## Contact
 For any queries, feel free to reach out to me on:  
