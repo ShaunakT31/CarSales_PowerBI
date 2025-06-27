@@ -96,5 +96,6 @@ The primary goal of this project is to create a dynamic Car Sales Dashboard that
 
 ## Contact
 For any queries, feel free to reach out to me on:  
-[Shaunak Torgatti](www.linkedin.com/in/shaunaktorgatti)
+[LinkedIn - Shaunak Torgatti](https://www.linkedin.com/in/shaunaktorgatti/)  
 Email: shaunakht@gmail.com
+
